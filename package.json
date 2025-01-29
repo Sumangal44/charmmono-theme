@@ -3,18 +3,60 @@
   "displayName": "Charmmono-Theme",
   "description": "Neo Mono Theme is a sleek VS Code theme inspired by monospace aesthetics and Charmed Icons, offering a minimal, elegant, and highly readable coding experience with dark & light modes. 🚀",
   "version": "0.0.1",
+  "author": {
+    "name": "sumangal karan",
+    "email": "sumangalkaran44@gmail.com",
+    "url": "https://github.com/sumangal44"
+  },
+  "publisher": "sumangal karan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumangal44/charmmono-theme"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "vscode",
+    "charmmono",
+    "charmmono-theme",
+    "charmmono-theme-vscode",
+    "charmmono-theme-vscode-extension",
+    "charmmono-theme-vscode-theme",
+    "charmmono-theme-vscode-dark",
+    "charmmono-theme-vscode-light",
+    "charmmono-theme-vscode-dark-mode",
+    "charmmono-theme-vscode-dark-theme",
+    "idx",
+    "Mono",
+    "monospace",
+    "monospace-theme",
+    "google",
+    "purple"
+  ],
+  "bugs": {
+    "url": " https://github.com/sumangal44/charmmono-theme/issues"
+  },
+  "homepage": "https://github.com/sumangal44/charmmono-theme",
+  "icon": "assets/icon.png",
   "contributes": {
+    "iconThemes": [
+      {
+        "id": "charmmono-icon-theme",
+        "label": "Charmmono-Icon-Theme",
+        "path": "./icons/charmmono-icon-theme.json"
+      }
+    ],
     "themes": [
       {
-        "label": "charmmono-Theme",
+        "label": "charmmono-Theme-dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/charmmono-Theme-color-theme.json"
+        "path": "./themes/charmmono-Theme-color-theme-dark.json"
       }
     ]
   }
