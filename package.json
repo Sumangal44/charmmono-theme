@@ -57,6 +57,11 @@
         "label": "charmmono-Theme-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/charmmono-Theme-color-theme-dark.json"
+      },
+      {
+        "label": "charmmono-Theme-light",
+        "uiTheme": "vs",
+        "path": "./themes/charmmono-Theme-color-theme-light.json"
       }
     ]
   }
