@@ -70,6 +70,10 @@ Neo-Mono-Theme is released under the <a href="LICENSE.md">MIT License</a>.
 
 ![Dark](https://github.com/Sumangal44/charmmono-theme/raw/master/assets/preview-dark.webp)
 
+### Light
+
+![Light](https://github.com/Sumangal44/charmmono-theme/raw/master/assets/preview-light.webp)
+
 ## For more information
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
