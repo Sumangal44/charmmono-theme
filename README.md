@@ -12,7 +12,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/sumangal44/charmmono-theme?style=for-the-badge&logo=github)
 
-<img src="https://github.com/Sumangal44/charmmono-theme/raw/v0.0.1/assets/files.png" alt="Files" width="512" />
+<img src="https://github.com/Sumangal44/charmmono-theme/raw/v0.1.2/assets/files.png" alt="Files" width="512" />
 <br><br>
 <img src="https://github.com/Sumangal44/charmmono-theme/raw/master/assets/folders.png" alt="Folders" width="512" />
 
