@@ -5,6 +5,9 @@ All notable changes to the "charmed-icons" extension will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.4] - 2025-04-13
+- 🚀 RELEASE: 🐛 FIX: update version to 0.1.4 and correct image source in… by @Sumangal44 in #5
+
 ## [0.1.3] - 2025-01-30
 - 🚀 RELEASE: 🐛 FIX: update version to 0.1.3 and correct image source in… by @Sumangal44 in #4
 
