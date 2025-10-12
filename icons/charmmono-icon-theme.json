@@ -39,6 +39,7 @@
 		"npm": { "iconPath": "files/npm.svg" },
 		"php": { "iconPath": "files/php.svg" },
 		"powershell": { "iconPath": "files/powershell.svg" },
+		"pug": { "iconPath": "files/pug.svg" },
 		"python": { "iconPath": "files/python.svg" },
 		"react-test": { "iconPath": "files/react-test.svg" },
 		"react-typescript-test": { "iconPath": "files/react-typescript-test.svg" },
@@ -51,6 +52,7 @@
 		"scss": { "iconPath": "files/scss.svg" },
 		"shell": { "iconPath": "files/shell.svg" },
 		"storybook": { "iconPath": "files/storybook.svg" },
+		"stylus": { "iconPath": "files/stylus.svg" },
 		"svg": { "iconPath": "files/svg.svg" },
 		"swift": { "iconPath": "files/swift.svg" },
 		"terraform": { "iconPath": "files/terraform.svg" },
@@ -337,6 +339,9 @@
 		"tgz": "zip",
 		"iso": "zip",
 		"vue": "vue",
+		"pug": "pug",
+		"styl": "stylus",
+		"stylus": "stylus",
 		"zig": "zig"
 	},
 	"fileNames": {
