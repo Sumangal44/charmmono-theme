@@ -339,6 +339,9 @@
 		"tgz": "zip",
 		"iso": "zip",
 		"vue": "vue",
+		"pug": "pug",
+		"styl": "stylus",
+		"stylus": "stylus",
 		"zig": "zig"
 	},
 	"fileNames": {
