@@ -5,6 +5,16 @@ All notable changes to the "charmed-icons" extension will be documented in this 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [0.3.1] -2025-10-13
+- Readme file changelog updated  
+## [0.3.0] -2025-10-13
+- What's Changed
+- Add pug and stylus file support by @ZeroDragon in #6
+- New Contributors
+- @ZeroDragon made their first contribution in #6
+- Full Changelog: v0.1.6...v0.3.0
+
 ## [0.1.7] - 2025-06-28
 - Full Changelog: v0.1.6...v1.0.7
 

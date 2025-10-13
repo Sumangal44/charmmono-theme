@@ -54,9 +54,15 @@ Charmed Icons draws inspiration from:
 - [Monospace Theme](https://github.com/keksiqc/monospace-theme): The Monospace Theme from Google's IDX.
 
 ---
+## 👥 Contributors
+Thanks to these amazing people for improving **Charmmono-Theme**! 🚀
+
+<a href="https://github.com/sumangal44/devsumangal/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sumangal44/charmmono-theme" />
+</a>
 
 <p align="center">
-Neo-Mono-Theme is released under the <a href="LICENSE.md">MIT License</a>.
+Charmmono-Theme is released under the <a href="LICENSE">MIT License</a>.
 </p>
 
 <div align="center">
